@@ -1,21 +1,28 @@
 {
-    "name": "matteric",
-    "displayName": "Matteric",
-    "description": "Matte dark theme for Visual Studio Code",
-    "version": "0.1.0",
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Matteric Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/matteric-color-theme.json"
-            }
-        ]
-    }
+  "name": "matteric",
+  "displayName": "Matteric Theme",
+  "description": "Matte dark theme for Visual Studio Code",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matteric Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matteric-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philosatom/vscode-theme-matteric.git"
+  },
+    "bugs": {
+    "url": "https://github.com/philosatom/vscode-theme-matteric/issues"
+  }
 }
