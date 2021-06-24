@@ -1,0 +1,21 @@
+{
+    "name": "matteric",
+    "displayName": "Matteric",
+    "description": "Matte dark theme for Visual Studio Code",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Matteric Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/matteric-color-theme.json"
+            }
+        ]
+    }
+}
