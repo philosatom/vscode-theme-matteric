@@ -8,13 +8,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased](https://github.com/philosatom/vscode-theme-matteric/compare/v0.1.1...HEAD)
 ### Added
 * Default color of the editor rulers
+* Color of the 'storage.control' token
 ### Changed
 * Lighten the editor selection background color a bit
 * Add transparency to colors of:
+  - editor selection background
   - editor selection highlight background
   - editor word highlight background
   - editor word highlight strong background
   - editor hover highlight background
+* Modify description in [README.md](https://github.com/philosatom/vscode-theme-matteric/blob/main/README.md)
 
 ## [0.1.1](https://github.com/philosatom/vscode-theme-matteric/compare/v0.1.0...v0.1.1) — 2021-06-25
 ### Added
@@ -23,4 +26,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * License section to [README.md](https://github.com/philosatom/vscode-theme-matteric/blob/main/README.md)
 
 ## [0.1.0](https://github.com/philosatom/vscode-theme-matteric/releases/tag/v0.1.0) — 2021-06-25
-- Initial release
+* Initial release

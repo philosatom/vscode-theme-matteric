@@ -62,7 +62,6 @@
 		"editor.stackFrameHighlightBackground": "#16191d",
 		"editor.wordHighlightBackground": "#24292eee",
 		"editor.wordHighlightStrongBackground": "#2d343bee",
-    "editorRuler.foreground": "#24292e",
 		"editorBracketMatch.border": "#2d343b",
 		"editorCodeLens.foreground": "#566370",
 		"editorCursor.foreground": "#eaecef",
@@ -80,6 +79,7 @@
 		"editorLineNumber.foreground": "#566370",
 		"editorLink.activeForeground": "#79b8ff",
 		"editorPane.background": "#1b1f23",
+    "editorRuler.foreground": "#24292e",
 		"editorSuggestWidget.background": "#24292e",
 		"editorSuggestWidget.border": "#24292e",
 		"editorSuggestWidget.focusHighlightForeground": "#6ca5e6cc",
@@ -255,20 +255,10 @@
 			"scope": [
 				"meta.diff.range",
 				"meta.diff.index",
-				"meta.separator"
+        "meta.diff.header.from-file",
+        "meta.diff.header.to-file",
+				"meta.separator",
 			],
-			"settings": {
-				"foreground": "#ACAEB0"
-			}
-		},
-		{
-			"scope": "meta.diff.header.from-file",
-			"settings": {
-				"foreground": "#ACAEB0"
-			}
-		},
-		{
-			"scope": "meta.diff.header.to-file",
 			"settings": {
 				"foreground": "#ACAEB0"
 			}
@@ -335,11 +325,12 @@
 			"scope": [
 				"constant.character.escape",
 				"punctuation",
+        "meta.brace.square",
 				"storage.type",
+        "storage.modifier",
+        "storage.control",
 				"keyword.operator",
 				"keyword.control",
-				"storage.modifier",
-				"meta.brace.square"
 			],
 			"settings": {
 				"foreground": "#566370"
