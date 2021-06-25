@@ -3,7 +3,7 @@
   "publisher": "rodinalex",
   "license": "MIT",
   "displayName": "Matteric Theme",
-  "description": "Matte dark theme for Visual Studio Code",
+  "description": "A matte dark theme for Visual Studio Code",
   "version": "0.2.0",
   "engines": {
     "vscode": "^1.57.0"
