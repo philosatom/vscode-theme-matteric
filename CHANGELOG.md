@@ -7,10 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased](https://github.com/philosatom/vscode-theme-matteric/compare/v0.2.0...HEAD)
 
-## [0.2.0](https://github.com/philosatom/vscode-theme-matteric/compare/v0.1.1...v0.2.0) — 2021-06-25
 ### Added
-* Default color of the editor rulers
-* Color of the 'storage.control' token
+* Visual Studio Marketplace version badge to [README.md](https://github.com/philosatom/vscode-theme-matteric/blob/main/README.md)
+
+### Changed
+* Simplify and widen low contrast color tokens scope
+* Edit Changelog file
+
+## [0.2.0](https://github.com/philosatom/vscode-theme-matteric/compare/v0.1.1...v0.2.0) — 2021-06-25
+
+### Added
+* Default editor rulers color
+* 'storage.control' token color
+
 ### Changed
 * Lighten the editor selection background color a bit
 * Add transparency to colors of:
@@ -22,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Modify description in [README.md](https://github.com/philosatom/vscode-theme-matteric/blob/main/README.md)
 
 ## [0.1.1](https://github.com/philosatom/vscode-theme-matteric/compare/v0.1.0...v0.1.1) — 2021-06-25
+
 ### Added
 * Changelog file
 * License file

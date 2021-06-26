@@ -1,4 +1,5 @@
 # Matteric Theme
+[![VS Marketplace Version](https://vsmarketplacebadge.apphb.com/version/rodinalex.matteric.svg)](https://marketplace.visualstudio.com/items?itemName=rodinalex.matteric)
 
 A matte dark theme for [Visual Studio Code](https://code.visualstudio.com/) inspired by:
 * [Alabaster Theme](https://github.com/tonsky/vscode-theme-alabaster) motivation,

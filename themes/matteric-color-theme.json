@@ -324,13 +324,10 @@
 		{
 			"scope": [
 				"constant.character.escape",
-				"punctuation",
-        "meta.brace.square",
-				"storage.type",
-        "storage.modifier",
-        "storage.control",
-				"keyword.operator",
-				"keyword.control",
+        "punctuation",
+        "storage",
+        "keyword",
+        "meta.brace",
 			],
 			"settings": {
 				"foreground": "#566370"
