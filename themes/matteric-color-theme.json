@@ -267,11 +267,11 @@
 			"scope": [
 				"support.type.property-name",
 				"entity.name",
-				"variable.other"
+				"variable.other",
+        "keyword.other.definition"
 			],
 			"settings": {
 				"foreground": "#ACAEB0",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -302,23 +302,12 @@
 			],
 			"settings": {
 				"foreground": "#C5B052",
-				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "invalid",
 			"settings": {
 				"foreground": "#D14848"
-			}
-		},
-		{
-			"scope": [
-				"keyword.control.export",
-				"keyword.control.default",
-				"keyword.control.flow"
-			],
-			"settings": {
-				"foreground": "#6CA5E6CC"
 			}
 		},
 		{

@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 * Simplify and widen low contrast color tokens scope
 * Edit Changelog file
+* Edit config files
+
+### Removed
+* Blue color for 'keyword.control' tokens
 
 ## [0.2.0](https://github.com/philosatom/vscode-theme-matteric/compare/v0.1.1...v0.2.0) — 2021-06-25
 
