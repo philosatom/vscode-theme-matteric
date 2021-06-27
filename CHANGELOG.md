@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased](https://github.com/philosatom/vscode-theme-matteric/compare/v0.3.0...HEAD)
 
+### Added
+* Screenshot to [README.md](https://github.com/philosatom/vscode-theme-matteric/blob/main/README.md)
+
 ## [0.3.0](https://github.com/philosatom/vscode-theme-matteric/compare/v0.2.0...v0.3.0) — 2021-06-27
 
 ### Added

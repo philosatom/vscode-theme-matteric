@@ -4,7 +4,7 @@
   "license": "MIT",
   "displayName": "Matteric Theme",
   "description": "A matte dark theme for Visual Studio Code",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "engines": {
     "vscode": "^1.57.0"
   },
