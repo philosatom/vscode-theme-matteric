@@ -11,6 +11,19 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark-theme",
+    "vscode-theme",
+    "matte"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philosatom/vscode-theme-matteric.git"
+  },
+  "bugs": {
+    "url": "https://github.com/philosatom/vscode-theme-matteric/issues"
+  },
   "contributes": {
     "themes": [
       {
@@ -20,11 +33,8 @@
       }
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/philosatom/vscode-theme-matteric.git"
-  },
-    "bugs": {
-    "url": "https://github.com/philosatom/vscode-theme-matteric/issues"
+  "galleryBanner": {
+    "color": "#1b1f23",
+    "theme": "dark"
   }
 }
