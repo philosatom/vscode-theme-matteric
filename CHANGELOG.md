@@ -5,7 +5,29 @@ All notable changes to the "Matteric Theme" extension will be documented in this
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased](https://github.com/philosatom/vscode-theme-matteric/compare/v0.3.1...HEAD)
+## [Unreleased](https://github.com/philosatom/vscode-theme-matteric/compare/v1.0.0...HEAD)
+
+## [1.0.0](https://github.com/philosatom/vscode-theme-matteric/compare/v0.3.1...v1.0.0) — 2022-03-26
+
+### Added
+* Theme icon
+* Icon colors for extension verified publisher & pre-release extension
+* Color of the overview ruler border
+* Overview ruler marker color for find matches
+* Background color of activated options in input fields
+* Foreground color for file nodes in the peek view result list
+* Border colors for the GUI settings editor
+
+### Changed
+* Screenshot of VS Code with Matteric color theme
+* Palette for dark, green, yellow, orange, red, purple and blue colors
+* Integrated Terminal colors
+* Update color of Visual Studio Marketplace version badge in [README.md](https://github.com/philosatom/vscode-theme-matteric/blob/main/README.md)
+* Darken menu, title bar, tabs, breadcrumbs and status bar
+* Rename theme label (Matteric Theme -> Matteric Dark Default)
+
+### Removed
+* Notebook colors
 
 ## [0.3.1](https://github.com/philosatom/vscode-theme-matteric/compare/v0.3.0...v0.3.1) — 2021-06-27
 

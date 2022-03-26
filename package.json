@@ -3,8 +3,8 @@
   "publisher": "rodinalex",
   "license": "MIT",
   "displayName": "Matteric Theme",
-  "description": "A matte dark theme for Visual Studio Code",
-  "version": "0.3.1",
+  "description": "Matte dark theme for VS Code",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.57.0"
   },
@@ -13,9 +13,8 @@
   ],
   "keywords": [
     "theme",
-    "dark-theme",
-    "vscode-theme",
-    "matte"
+    "vscode",
+    "dark"
   ],
   "repository": {
     "type": "git",
@@ -36,5 +35,6 @@
   "galleryBanner": {
     "color": "#1b1f23",
     "theme": "dark"
-  }
+  },
+  "icon": "assets/icon.png"
 }
