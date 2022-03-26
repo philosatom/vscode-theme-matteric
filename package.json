@@ -4,7 +4,7 @@
   "license": "MIT",
   "displayName": "Matteric Theme",
   "description": "Matte dark theme for VS Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.57.0"
   },
@@ -26,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Matteric Theme",
+        "label": "Matteric Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/matteric-color-theme.json"
       }
