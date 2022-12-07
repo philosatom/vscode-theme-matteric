@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased](https://github.com/philosatom/vscode-theme-matteric/compare/v1.0.1...HEAD)
 
+### Added
+* HTML tag name color
+
+### Fixed
+* Numeric unit color is now the same as numeric constant color
+* At-rules get default color
+
+### Changed
+* Simplify and reorganize token color scopes
+
 ## [1.0.1](https://github.com/philosatom/vscode-theme-matteric/compare/v1.0.0...v1.0.1) — 2022-03-26
 
 ### Changed

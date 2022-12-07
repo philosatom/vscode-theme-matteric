@@ -265,29 +265,46 @@
 	},
 	"tokenColors": [
 		{
+      "name": "Punctuation, Storage, Keywords",
 			"scope": [
-				"meta.diff.range",
-				"meta.diff.index",
-				"meta.diff.header.from-file",
-				"meta.diff.header.to-file",
-				"meta.separator",
+				"constant.character.escape",
+				"punctuation",
+        "meta.brace",
+				"storage.type",
+        "storage.modifier",
+				"keyword.control",
+        "keyword.operator"
 			],
 			"settings": {
-				"foreground": "#ACAEB0"
+				"foreground": "#4D535C"
 			}
 		},
+    {
+      "name": "Entity Types",
+      "scope": "support.type",
+      "settings": {
+        "foreground": "#ACAEB0"
+      }
+    },
+    {
+      "name": "At-Rules",
+      "scope": "keyword.control.at-rule",
+      "settings": {
+        "foreground": "#ACAEB0"
+      }
+    },
 		{
+			"name": "Comments",
 			"scope": [
-				"support.type.property-name",
-				"entity.name",
-				"variable.other",
-        "keyword.other.definition"
+				"comment",
+				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#ACAEB0",
+				"foreground": "#D9C671"
 			}
 		},
-		{
+    {
+			"name": "Strings, Regular Expressions",
 			"scope": [
 				"string",
 				"string.regexp",
@@ -297,63 +314,53 @@
 				"foreground": "#84A360"
 			}
 		},
-		{
-			"scope": [
-				"constant",
-				"constant.numeric",
-				"constant.keyword",
-				"constant.character"
-			],
+    {
+      "name": "Constants",
+			"scope": "constant",
 			"settings": {
 				"foreground": "#E38539"
 			}
 		},
 		{
+			"name": "Invalid",
 			"scope": [
-				"comment",
-				"punctuation.definition.comment"
+				"invalid",
+				"invalid.illegal"
 			],
-			"settings": {
-				"foreground": "#D9C671",
-			}
-		},
-		{
-			"scope": "invalid",
 			"settings": {
 				"foreground": "#E35339"
 			}
 		},
 		{
-			"scope": [
-				"constant.character.escape",
-				"punctuation",
-				"storage",
-				"keyword",
-				"meta.brace",
-			],
+			"name": "HTML Tags",
+			"scope": "entity.name.tag.html",
 			"settings": {
-				"foreground": "#4D535C"
+				"foreground": "#6F91AD"
 			}
 		},
-		{
+    {
+      "name": "Info Tokens",
 			"scope": "token.info-token",
 			"settings": {
 				"foreground": "#7296B3"
 			}
 		},
 		{
+      "name": "Warn Tokens",
 			"scope": "token.warn-token",
 			"settings": {
 				"foreground": "#D9C671"
 			}
 		},
 		{
+      "name": "Error Tokens",
 			"scope": "token.error-token",
 			"settings": {
 				"foreground": "#E35339"
 			}
 		},
 		{
+      "name": "Debug Tokens",
 			"scope": "token.debug-token",
 			"settings": {
 				"foreground": "#A087D4"
